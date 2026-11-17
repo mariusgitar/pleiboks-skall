@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Boks" parent="android:Theme.Material.Light.NoActionBar.Fullscreen">
+        <item name="android:windowBackground">@color/himmel</item>
+        <item name="android:statusBarColor">@color/himmel</item>
+        <item name="android:navigationBarColor">@color/himmel</item>
+    </style>
+</resources>
